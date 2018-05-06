@@ -1,0 +1,82 @@
+body{
+    background: white;
+    text-align: center;
+}
+
+/*
+#one{
+    background: blue;
+}
+#two{
+    background: yellow;
+}
+#three{
+    background: red;
+}
+#four{
+    background: brown;
+}
+#five{
+    background: aqua;
+}
+#six{
+    background: green;
+}
+*/
+.content{
+    display: grid;
+    max-width: 960px;
+    margin: 0 auto;
+    grid-template-columns: repeat(4,1fr);
+    grid-auto-rows: minmax(200px,auto);
+
+    grid-gap: 5px;
+}
+.content div{
+    background: yellow;
+}
+#one{
+    
+}
+p{
+    text-align: center;
+    margin-top: 60px;
+    font-size: 40px;
+}
+#tw0{
+ grid-row: 1/3;
+}
+
+/*
+#three{
+    grid-area: rama;
+}
+*/
+/*
+#four{
+    grid-area: mwai;
+}
+#five{
+    grid-area: zeddy;
+}
+#six{
+    grid-area: abbas;
+}
+#seven{
+    grid-area: kovo;
+}
+#eight{
+    grid-area: amama;
+}
+#nine{
+    grid-area: luqman;
+}
+#eleven{
+    grid-area: husna;
+}
+#twelve{
+    grid-area: hawa;
+}
+*/
+
+
