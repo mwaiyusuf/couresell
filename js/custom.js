@@ -4,7 +4,7 @@
     if (d.childNodes[i].nodeType === 1 ) {
       pCounter++;
     }
-//    if (pCounter === 2) {
+    if (pCounter === 2) {
 //      d.childNodes[i].innerHTML = "All his men.";
 //      break;
 //   }
