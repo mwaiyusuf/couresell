@@ -6,6 +6,6 @@
     }
     if (pCounter === 2) {
       d.childNodes[i].innerHTML = "All his men.";
-//      break;
-//   }
-// } 
+      break;
+   }
+ } 
