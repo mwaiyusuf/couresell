@@ -21,9 +21,9 @@ function dr(){
         }
         
     }
-//    if(count>=1){
-//        alert(count);
-//    }
+    if(count>=1){
+        alert(count);
+    }
 //    else{
 //        alert("There is no number 9 presence");
 //    }
