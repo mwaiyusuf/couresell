@@ -9,9 +9,9 @@
 //      break;
 //   }
 // } 
-//function dr(){
-//    var number=[];
-//    for(i=0;i<5;i++){
+function dr(){
+    var number=[];
+    for(i=0;i<5;i++){
 //        var num=number.push(prompt("Enter a number"));
 //    }
 //    var count=0;
