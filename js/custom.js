@@ -18,9 +18,9 @@ function dr(){
     for(x=0;x<number.length;x++){
         if(number[x]==9){
             count++;
-//        }
-//        
-//    }
+        }
+        
+    }
 //    if(count>=1){
 //        alert(count);
 //    }
