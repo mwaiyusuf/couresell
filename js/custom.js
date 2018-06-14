@@ -24,8 +24,8 @@ function dr(){
     if(count>=1){
         alert(count);
     }
-//    else{
-//        alert("There is no number 9 presence");
+    else{
+        alert("There is no number 9 presence");
 //    }
 ////    if(number==9){
 ////        alert("There is number nine ");
