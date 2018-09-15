@@ -36,3 +36,8 @@
 //    
 //}
 //dr();
+function func(){
+    let temp=123;
+    console.log(temp);
+}
+func()
