@@ -1,2 +1,2 @@
 # couresell
-contain photos 
+contain photos and text
