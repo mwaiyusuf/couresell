@@ -1,2 +1,2 @@
 # couresell
-grid displlay
+contain photos 
